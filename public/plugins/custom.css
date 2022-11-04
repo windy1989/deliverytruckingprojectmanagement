@@ -1,0 +1,8 @@
+td.details-control {
+    cursor: pointer;
+}
+
+.form-control {
+    color: black !important;
+    font-weight: bold !important;
+}
